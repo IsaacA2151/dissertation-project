@@ -2,9 +2,6 @@
 
 A wearable device that uses spatial audio to convey direction to visually impaired users for indoor navigation. Built on a Raspberry Pi Zero 2 W, kept under a £50 budget so it stays accessible rather than joining the expensive assistive tech products already out there.
 
-![Device worn on headband](docs/device_front.jpg)
-*(add your own photos here, Figures 4.5 to 4.7 in the full report work well)*
-
 ## The problem
 
 Existing aids like the white cane or GPS based apps each have well documented limitations, particularly indoors where satellite signal is unavailable and spatial awareness is necessary. When vision becomes impaired, hearing becomes the primary sense for spatial awareness, which makes audio a natural option for navigation aids.
