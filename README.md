@@ -1,6 +1,6 @@
 # Spatial Audio Navigation Device
 
-A wearable device that uses spatial audio to convey direction to visually impaired users for indoor navigation. Built on a Raspberry Pi Zero 2 W, kept under a £50 budget so it stays accessible rather than joining the expensive assistive tech products already out there.
+A wearable device that uses spatial audio to convey direction to visually impaired users for indoor navigation. Built on a Raspberry Pi Zero 2 W, kept around a £50 budget so it stays accessible rather than joining the expensive assistive tech products already out there.
 
 ## The problem
 
@@ -14,7 +14,7 @@ An MPU-6050 IMU tracks head orientation using a Madgwick filter, combining accel
 
 A Flask web interface, reachable from any device on the same local network, lets the user set the target direction, control volume, and switch between HRTF subject measurements to find the one that best suits their own anatomy.
 
-![System Flowchart](docs/SystemFlowDiagram.pdf)
+![System Flowchart](docs/SystemFlowDiagram.png)
 
 ## Hardware
 
