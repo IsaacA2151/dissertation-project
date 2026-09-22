@@ -14,7 +14,7 @@ An MPU-6050 IMU tracks head orientation using a Madgwick filter, combining accel
 
 A Flask web interface, reachable from any device on the same local network, lets the user set the target direction, control volume, and switch between HRTF subject measurements to find the one that best suits their own anatomy.
 
-![System Flowchar](docs/SystemFlowDiagram.jpg)
+![System Flowchart](docs/SystemFlowDiagram.pdf)
 
 ## Hardware
 
