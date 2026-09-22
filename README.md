@@ -58,16 +58,6 @@ The device currently only handles one virtual sound source at a fixed position s
 
 The absence of a magnetometer also means the system has no absolute heading reference, so yaw drift accumulates over time and requires the user to periodically recalibrate by returning to a known reference orientation. Jumper wire connections were another weak point, introducing occasional contact failures when the headband flexed. Replacing them with soldered stranded wire would be a straightforward improvement.
 
-## Try it yourself
-
-```bash
-# On the Raspberry Pi Zero 2 W (Raspberry Pi OS, I2C enabled)
-pip install -r requirements.txt
-python app.py
-# Open http://<pi-ip-address>:5000 from any device on the same network
-```
-
-Requires a CIPIC format SOFA HRTF file (see `sofa_reader.py`) and a USB audio DAC connected via the Pi's micro USB OTG port.
 
 ## Background
 
