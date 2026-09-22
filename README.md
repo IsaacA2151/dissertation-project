@@ -61,4 +61,4 @@ The absence of a magnetometer also means the system has no absolute heading refe
 
 ## Background
 
-Built as my final year dissertation for BEng Electrical and Electronic Engineering / Electronic and Computer Engineering at Newcastle University, 2026. Full report with literature review, testing methodology and design iteration log available [here](./dissertation.pdf).
+Built as my final year dissertation for BEng Electrical and Electronic Engineering / Electronic and Computer Engineering at Newcastle University, 2026. Full report with literature review, testing methodology and design iteration log available [here](docs/dissertation_report.pdf).
